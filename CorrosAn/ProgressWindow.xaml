@@ -1,0 +1,8 @@
+﻿<Window x:Class="CorrosAn.ProgressWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ProgressWindow" Height="88" Width="167">
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="26,14,0,0" Name="textBlock1" Text="Trwa wczytywanie ..." VerticalAlignment="Top" Width="122" />
+    </Grid>
+</Window>
